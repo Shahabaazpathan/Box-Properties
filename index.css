@@ -1,0 +1,36 @@
+h1{
+    text-align:center;
+
+}
+
+#one{
+    background-color: black;
+    font-weight: bolder;
+    color: rgb(241, 133, 0);
+    margin:auto;
+    /*margin-right: auto;
+    margin-left: auto;*/
+    margin-top: 5%;
+    margin-bottom: 50px;
+    text-align:center
+    padding: 15px;
+    padding-right: 7%;
+    font-size: 20px;
+    width: 10%
+
+}
+#two{
+    background-color: black;
+    color: rgb(241, 133, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-self: center;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bolder;
+    width: 49%;
+
+}
+
+
